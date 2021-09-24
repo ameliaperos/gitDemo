@@ -6,7 +6,7 @@ h1 {
 
 .big {
 	transform: scale(2);
-	color: green;
+	color: red;
 }
 
 .small {
